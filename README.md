@@ -8,7 +8,7 @@
 
 | # | 章節 
 | -------- | -------- 
-| 01 | [第1,2集-預測本頻道觀看人數 - 機器學習基本概念簡介](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H1UmHW-Gn))
+| 01 | [第1,2集-預測本頻道觀看人數 - 機器學習基本概念簡介](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H1UmHW-Gn)
 | 02 | [第3集-機器學習任務攻略](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/S1cribYG2)
 | 03 | [第4,5,6,7,8集-類神經網路訓練不起來怎麼辦 (一)： 局部最小值 (local minima) 與鞍點 (saddle point)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/BylmuZ9Xn)
 | 04 | [第9集-CNN](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJS2EWPH3)
