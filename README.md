@@ -2,7 +2,8 @@
 [課程](https://www.youtube.com/playlist?list=PLJV_el3uVTsMhtt7_Y6sgTHGHp1Vb2P2J)
 
 # 筆記
-## 此筆記來源為https://github.com/chsiang426/ML-2021-notes
+## 此筆記來源為
+https://github.com/chsiang426/ML-2021-notes
 我根據自己的理解增加描述與修改，作為自己的筆記
 
 | # | 章節 
