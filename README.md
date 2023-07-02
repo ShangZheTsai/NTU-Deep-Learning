@@ -20,9 +20,9 @@
 對不同年份去做選擇，我選擇一個最適合自己的年份來做
 | # | 標題
 | -------- | -------- 
-| 01 | [Regression](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H1UmHW-Gn)
-| 02 | [Classification](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/S1cribYG2)
-| 03 | [CNN](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/BylmuZ9Xn)
-| 04 | [Self-attention](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJS2EWPH3)
-| 05 | [Transformer](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJsZvOar3)
-| 06 | [GAN](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H12c6DeL2)
+| HW1 | [Regression]((https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW1_2022.ipynb))
+| HW2 | [Classification]((https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW2_2021.ipynb))
+| HW3 | [CNN]((https://github.com/ShangZheTsai/NTU-Deep-Learning/tree/main/%E4%BD%9C%E6%A5%AD/HW3))
+| HW4 | [Self-attention]((https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW4_2023.ipynb))
+| HW5 | [Transformer](https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW5_2023.ipynb)
+| HW6 | [GAN]()
