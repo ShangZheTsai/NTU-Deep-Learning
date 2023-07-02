@@ -17,4 +17,12 @@
 | 07 | [第14,15,16,17集-生成式對抗網路 (Generative Adversarial Network, GAN)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/Syt1yjPdn)
 
 # 作業
-在以上資料夾，有對不同年份去做選擇，我選擇一個最適合自己的年份來做
+對不同年份去做選擇，我選擇一個最適合自己的年份來做
+| # | 標題
+| -------- | -------- 
+| 01 | [Regression](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H1UmHW-Gn)
+| 02 | [Classification](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/S1cribYG2)
+| 03 | [CNN](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/BylmuZ9Xn)
+| 04 | [Self-attention](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJS2EWPH3)
+| 05 | [Transformer](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJsZvOar3)
+| 06 | [GAN](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H12c6DeL2)
