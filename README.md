@@ -25,3 +25,4 @@
 | HW3 | [CNN](https://github.com/ShangZheTsai/NTU-Deep-Learning/tree/main/%E4%BD%9C%E6%A5%AD/HW3)
 | HW4 | [Self-attention](https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW4_2023.ipynb)
 | HW5 | [Transformer](https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW5_2023.ipynb)
+| HW6 | [GAN](https://github.com/ShangZheTsai/NTU-Deep-Learning/blob/main/%E4%BD%9C%E6%A5%AD/HW6_2021.ipynb)
