@@ -15,7 +15,7 @@
 | 05 | [第10,11集-Self-attention](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/rJsZvOar3)
 | 06 | [第12,13集-Transformer](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/H12c6DeL2)
 | 07 | [第14,15,16,17集-生成式對抗網路 (Generative Adversarial Network, GAN)](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/Syt1yjPdn)
-| 08 | [第18,19,20,21集-Self-supervised Learning](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/B1Ovr1Nin)
+| 08 | [第18,19,20,21集-Self-supervised Learning-Bert](https://hackmd.io/@-rcztUDRS2uecBXqGnbHiA/B1Ovr1Nin)
 
 
 # 作業
